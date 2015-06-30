@@ -1,0 +1,10 @@
+{
+  "db": {
+    "host": "",
+    "port": 28015,
+    "database": "",
+    "name": "db",
+    "defaultForType": "db",
+    "connector": "rethinkdb"
+  }
+}
